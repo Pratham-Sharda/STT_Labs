@@ -1,0 +1,9 @@
+Test Configuration: pytest_n1_dist_load
+Command: pytest -n 1 --dist load
+
+Run 1: Time = 5.56s, Failures = 0
+Run 2: Time = 7.69s, Failures = 0
+Run 3: Time = 6.96s, Failures = 0
+
+Average Execution Time: 6.73s
+Average Failures: 0.00

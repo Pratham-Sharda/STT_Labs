@@ -1,0 +1,9 @@
+Test Configuration: pytest_n_auto_dist_no_parallel_auto
+Command: pytest -n auto --dist no --parallel-threads auto
+
+Run 1: Time = 54.16s, Failures = 4
+Run 2: Time = 50.13s, Failures = 4
+Run 3: Time = 50.20s, Failures = 4
+
+Average Execution Time: 51.50s
+Average Failures: 4.00

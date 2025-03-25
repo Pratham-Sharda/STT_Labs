@@ -1,0 +1,9 @@
+Test Configuration: pytest_n_auto_dist_no
+Command: pytest -n auto --dist no
+
+Run 1: Time = 12.72s, Failures = 0
+Run 2: Time = 9.85s, Failures = 0
+Run 3: Time = 9.76s, Failures = 0
+
+Average Execution Time: 10.78s
+Average Failures: 0.00

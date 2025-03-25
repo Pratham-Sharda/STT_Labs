@@ -1,0 +1,9 @@
+Test Configuration: pytest_parallel_threads_auto
+Command: pytest --parallel-threads auto
+
+Run 1: Time = 35.45s, Failures = 4
+Run 2: Time = 35.27s, Failures = 4
+Run 3: Time = 34.36s, Failures = 4
+
+Average Execution Time: 35.03s
+Average Failures: 4.00

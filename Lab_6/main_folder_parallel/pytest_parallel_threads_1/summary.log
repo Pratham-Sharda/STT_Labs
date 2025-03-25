@@ -1,0 +1,9 @@
+Test Configuration: pytest_parallel_threads_1
+Command: pytest --parallel-threads 1
+
+Run 1: Time = 7.23s, Failures = 0
+Run 2: Time = 7.41s, Failures = 0
+Run 3: Time = 6.89s, Failures = 0
+
+Average Execution Time: 7.18s
+Average Failures: 0.00
