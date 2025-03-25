@@ -1,0 +1,7 @@
+repo_name,repo_url
+tqdm,https://github.com/tqdm/tqdm.git
+seaborn,https://github.com/mwaskom/seaborn.git
+pydantic,https://github.com/pydantic/pydantic.git
+flask,https://github.com/pallets/flask.git
+dash,https://github.com/plotly/dash.git
+
