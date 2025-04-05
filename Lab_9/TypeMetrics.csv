@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM
+system,student.information.system,Audit_details,29.0,22.0,5.0,5.0,0.9,0.5555555555555556
+system,student.information.system,Choice,98.0,91.0,11.0,8.0,0.9629629629629629,0.5333333333333333
+system,student.information.system,ChoicesData,0.0,0.0,1.0,1.0,0.25,0.0
+system,student.information.system,CounsellingResult,132.0,128.0,14.0,11.0,0.9711538461538461,0.6470588235294118
+system,student.information.system,db,0.0,0.0,2.0,2.0,0.0,0.0
+system,student.information.system,DbUtils,0.0,0.0,0.0,0.0,0.0,-1.0
+system,student.information.system,Emp,0.0,0.0,0.0,0.0,0.0,-1.0
+system,student.information.system,Login,51.0,47.0,10.0,9.0,0.9705882352941175,0.6363636363636364
+system,student.information.system,MainMenu,65.0,64.0,11.0,10.0,0.9917355371900828,0.8333333333333334
+system,student.information.system,Result,6.0,6.0,4.0,3.0,1.0,0.75
+system,student.information.system,StudentData,0.0,0.0,1.0,1.0,0.25,0.0
+system,student.information.system,StudentInformation,458.0,420.0,20.0,20.0,0.956989247311828,0.625
+system,student.information.system,StudentInformationSystem,0.0,0.0,1.0,1.0,0.0,0.0
+system,student.information.system,users,111.0,86.0,10.0,10.0,0.8980263157894737,0.5882352941176471
