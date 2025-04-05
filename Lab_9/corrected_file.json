@@ -1,0 +1,1860 @@
+{
+    "PIL": {
+        "bacon": 2,
+        "imported_by": [
+            "PIL",
+            "PIL.Image",
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "seaborn._core.plot",
+            "seaborn.palettes"
+        ],
+        "imports": [
+            "PIL"
+        ],
+        "name": "PIL",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py"
+    },
+    "PIL.Image": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "seaborn._core.plot",
+            "seaborn.palettes"
+        ],
+        "imports": [
+            "PIL"
+        ],
+        "name": "PIL.Image",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\Image.py"
+    },
+    "__main__": {
+        "bacon": 0,
+        "imports": [
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core",
+            "seaborn._core.data",
+            "seaborn._core.exceptions",
+            "seaborn._core.groupby",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.rules",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._core.typing",
+            "seaborn._docstrings",
+            "seaborn._marks",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn._statistics",
+            "seaborn._stats",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn._testing",
+            "seaborn.algorithms",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.cm",
+            "seaborn.colors",
+            "seaborn.colors.crayons",
+            "seaborn.colors.xkcd_rgb",
+            "seaborn.distributions",
+            "seaborn.external",
+            "seaborn.external.appdirs",
+            "seaborn.external.docscrape",
+            "seaborn.external.husl",
+            "seaborn.external.kde",
+            "seaborn.external.version",
+            "seaborn.matrix",
+            "seaborn.miscplot",
+            "seaborn.objects",
+            "seaborn.palettes",
+            "seaborn.rcmod",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "name": "__main__",
+        "path": null
+    },
+    "cycler": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "seaborn._core.plot",
+            "seaborn.rcmod"
+        ],
+        "name": "cycler",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cycler\\__init__.py"
+    },
+    "matplotlib": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.axes",
+            "matplotlib.axis",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.colors",
+            "matplotlib.dates",
+            "matplotlib.figure",
+            "matplotlib.gridspec",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.path",
+            "matplotlib.pyplot",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "matplotlib.transforms",
+            "scipy.cluster.hierarchy",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._core.typing",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn._testing",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.cm",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.miscplot",
+            "seaborn.palettes",
+            "seaborn.rcmod",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.colors",
+            "matplotlib.pyplot"
+        ],
+        "name": "matplotlib",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\__init__.py"
+    },
+    "matplotlib.artist": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.axis",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.figure",
+            "matplotlib.patches",
+            "matplotlib.pyplot",
+            "seaborn._core.plot",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.patches",
+            "matplotlib.path",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.artist",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\artist.py"
+    },
+    "matplotlib.axes": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.axes",
+            "matplotlib.figure",
+            "matplotlib.pyplot",
+            "seaborn._core.plot",
+            "seaborn._core.subplots"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.axes"
+        ],
+        "name": "matplotlib.axes",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\axes\\__init__.py"
+    },
+    "matplotlib.axis": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "seaborn._core.scales"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.cbook",
+            "matplotlib.colors",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.axis",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\axis.py"
+    },
+    "matplotlib.cbook": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.axis",
+            "matplotlib.collections",
+            "matplotlib.colors",
+            "matplotlib.dates",
+            "matplotlib.figure",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.path",
+            "matplotlib.pyplot",
+            "matplotlib.ticker",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.relational",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "numpy"
+        ],
+        "name": "matplotlib.cbook",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\cbook.py"
+    },
+    "matplotlib.collections": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "scipy.cluster.hierarchy",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.cbook",
+            "matplotlib.colors",
+            "matplotlib.path",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.collections",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\collections.py"
+    },
+    "matplotlib.colors": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib",
+            "matplotlib.axis",
+            "matplotlib.collections",
+            "matplotlib.patches",
+            "matplotlib.pyplot",
+            "seaborn._core.properties",
+            "seaborn._core.typing",
+            "seaborn._testing",
+            "seaborn.cm",
+            "seaborn.distributions",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "PIL",
+            "PIL.Image",
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.scale",
+            "numpy"
+        ],
+        "name": "matplotlib.colors",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\colors.py"
+    },
+    "matplotlib.dates": {
+        "bacon": 2,
+        "imported_by": [
+            "seaborn._core.scales"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.ticker",
+            "numpy"
+        ],
+        "name": "matplotlib.dates",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\dates.py"
+    },
+    "matplotlib.figure": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "seaborn._compat",
+            "seaborn._core.plot",
+            "seaborn._core.subplots"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.axes",
+            "matplotlib.cbook",
+            "matplotlib.gridspec",
+            "matplotlib.patches",
+            "matplotlib.pyplot",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.figure",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\figure.py"
+    },
+    "matplotlib.gridspec": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.figure",
+            "matplotlib.pyplot",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.gridspec",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\gridspec.py"
+    },
+    "matplotlib.markers": {
+        "bacon": 2,
+        "imported_by": [
+            "seaborn._core.properties",
+            "seaborn.categorical"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.path",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.markers",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\markers.py"
+    },
+    "matplotlib.patches": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.artist",
+            "matplotlib.figure",
+            "matplotlib.pyplot",
+            "scipy.cluster.hierarchy",
+            "seaborn.categorical"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.cbook",
+            "matplotlib.colors",
+            "matplotlib.path",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.patches",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\patches.py"
+    },
+    "matplotlib.path": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.artist",
+            "matplotlib.collections",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.transforms",
+            "seaborn._core.properties"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.path",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\path.py"
+    },
+    "matplotlib.pyplot": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib",
+            "matplotlib.figure",
+            "seaborn._core.plot",
+            "seaborn._core.subplots",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.miscplot",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "PIL",
+            "PIL.Image",
+            "cycler",
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.axes",
+            "matplotlib.axis",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.colors",
+            "matplotlib.figure",
+            "matplotlib.gridspec",
+            "matplotlib.patches",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "numpy",
+            "numpy.typing",
+            "typing_extensions"
+        ],
+        "name": "matplotlib.pyplot",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\pyplot.py"
+    },
+    "matplotlib.scale": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.axis",
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "seaborn._core.scales"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.ticker",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.scale",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\scale.py"
+    },
+    "matplotlib.ticker": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.axis",
+            "matplotlib.dates",
+            "matplotlib.pyplot",
+            "matplotlib.scale",
+            "seaborn._core.scales",
+            "seaborn.miscplot"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.transforms",
+            "numpy"
+        ],
+        "name": "matplotlib.ticker",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\ticker.py"
+    },
+    "matplotlib.transforms": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.artist",
+            "matplotlib.axis",
+            "matplotlib.collections",
+            "matplotlib.figure",
+            "matplotlib.gridspec",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.path",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "seaborn._marks.text",
+            "seaborn.distributions"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.path",
+            "numpy",
+            "numpy.linalg"
+        ],
+        "name": "matplotlib.transforms",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\matplotlib\\transforms.py"
+    },
+    "numpy": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.artist",
+            "matplotlib.axis",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.colors",
+            "matplotlib.dates",
+            "matplotlib.figure",
+            "matplotlib.gridspec",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.path",
+            "matplotlib.pyplot",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "matplotlib.transforms",
+            "numpy",
+            "numpy.linalg",
+            "numpy.testing",
+            "numpy.typing",
+            "scipy",
+            "scipy.cluster.hierarchy",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.rules",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._core.typing",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn._statistics",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn._testing",
+            "seaborn.algorithms",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.external.kde",
+            "seaborn.matrix",
+            "seaborn.miscplot",
+            "seaborn.palettes",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "numpy",
+            "numpy.linalg",
+            "numpy.testing",
+            "numpy.typing"
+        ],
+        "name": "numpy",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\__init__.py"
+    },
+    "numpy.linalg": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.transforms",
+            "numpy",
+            "numpy.linalg",
+            "seaborn.external.kde"
+        ],
+        "imports": [
+            "numpy",
+            "numpy.linalg"
+        ],
+        "name": "numpy.linalg",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\__init__.py"
+    },
+    "numpy.testing": {
+        "bacon": 2,
+        "imported_by": [
+            "numpy",
+            "numpy.testing",
+            "seaborn._testing"
+        ],
+        "imports": [
+            "numpy",
+            "numpy.testing"
+        ],
+        "name": "numpy.testing",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\__init__.py"
+    },
+    "numpy.typing": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "numpy",
+            "seaborn._core.properties",
+            "seaborn._core.scales",
+            "seaborn._stats.counting"
+        ],
+        "imports": [
+            "numpy"
+        ],
+        "name": "numpy.typing",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\typing\\__init__.py"
+    },
+    "pandas": {
+        "bacon": 2,
+        "imported_by": [
+            "pandas",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core.data",
+            "seaborn._core.groupby",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.rules",
+            "seaborn._core.scales",
+            "seaborn._core.typing",
+            "seaborn._marks.base",
+            "seaborn._statistics",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "pandas"
+        ],
+        "name": "pandas",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\__init__.py"
+    },
+    "scipy": {
+        "bacon": 2,
+        "imported_by": [
+            "scipy",
+            "scipy.cluster",
+            "scipy.cluster.hierarchy",
+            "scipy.stats",
+            "seaborn._statistics",
+            "seaborn._stats.density",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "numpy",
+            "scipy"
+        ],
+        "name": "scipy",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\scipy\\__init__.py"
+    },
+    "scipy.cluster": {
+        "bacon": 2,
+        "imported_by": [
+            "scipy.cluster",
+            "scipy.cluster.hierarchy",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "scipy",
+            "scipy.cluster",
+            "scipy.cluster.hierarchy"
+        ],
+        "name": "scipy.cluster",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\scipy\\cluster\\__init__.py"
+    },
+    "scipy.cluster.hierarchy": {
+        "bacon": 2,
+        "imported_by": [
+            "scipy.cluster",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.collections",
+            "matplotlib.patches",
+            "numpy",
+            "scipy",
+            "scipy.cluster"
+        ],
+        "name": "scipy.cluster.hierarchy",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\scipy\\cluster\\hierarchy.py"
+    },
+    "scipy.stats": {
+        "bacon": 2,
+        "imported_by": [
+            "scipy.stats",
+            "seaborn._statistics",
+            "seaborn._stats.density"
+        ],
+        "imports": [
+            "scipy",
+            "scipy.stats"
+        ],
+        "name": "scipy.stats",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\scipy\\stats\\__init__.py"
+    },
+    "seaborn": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core.data",
+            "seaborn._core.groupby",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.cm",
+            "seaborn.matrix",
+            "seaborn.objects",
+            "seaborn.rcmod",
+            "seaborn.regression",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "matplotlib",
+            "seaborn",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.cm",
+            "seaborn.colors",
+            "seaborn.colors.crayons",
+            "seaborn.colors.xkcd_rgb",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.miscplot",
+            "seaborn.palettes",
+            "seaborn.rcmod",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils",
+            "seaborn.widgets"
+        ],
+        "name": "seaborn",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\__init__.py"
+    },
+    "seaborn._base": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.relational"
+        ],
+        "imports": [
+            "matplotlib",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.data",
+            "seaborn.axisgrid",
+            "seaborn.palettes",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._base",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_base.py"
+    },
+    "seaborn._compat": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.cm",
+            "seaborn.matrix",
+            "seaborn.palettes",
+            "seaborn.relational",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.figure",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._compat",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_compat.py"
+    },
+    "seaborn._core": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._base",
+            "seaborn._core.data",
+            "seaborn._core.groupby",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.objects",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._core",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\__init__.py"
+    },
+    "seaborn._core.data": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._base",
+            "seaborn._core.plot",
+            "seaborn.axisgrid"
+        ],
+        "imports": [
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.typing",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._core.data",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\data.py"
+    },
+    "seaborn._core.exceptions": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._core.exceptions",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\exceptions.py"
+    },
+    "seaborn._core.groupby": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order"
+        ],
+        "imports": [
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.rules"
+        ],
+        "name": "seaborn._core.groupby",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\groupby.py"
+    },
+    "seaborn._core.moves": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales",
+            "seaborn._core.typing"
+        ],
+        "name": "seaborn._core.moves",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\moves.py"
+    },
+    "seaborn._core.plot": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "PIL",
+            "PIL.Image",
+            "cycler",
+            "matplotlib",
+            "matplotlib.artist",
+            "matplotlib.axes",
+            "matplotlib.figure",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._compat",
+            "seaborn._core",
+            "seaborn._core.data",
+            "seaborn._core.exceptions",
+            "seaborn._core.groupby",
+            "seaborn._core.moves",
+            "seaborn._core.properties",
+            "seaborn._core.rules",
+            "seaborn._core.scales",
+            "seaborn._core.subplots",
+            "seaborn._core.typing",
+            "seaborn._marks",
+            "seaborn._marks.base",
+            "seaborn._stats",
+            "seaborn._stats.base",
+            "seaborn.palettes",
+            "seaborn.rcmod",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._core.plot",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\plot.py"
+    },
+    "seaborn._core.properties": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._core.scales",
+            "seaborn._marks.base"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.colors",
+            "matplotlib.markers",
+            "matplotlib.path",
+            "numpy",
+            "numpy.typing",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.rules",
+            "seaborn._core.scales",
+            "seaborn.palettes",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._core.properties",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\properties.py"
+    },
+    "seaborn._core.rules": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.groupby",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.scales"
+        ],
+        "imports": [
+            "numpy",
+            "pandas"
+        ],
+        "name": "seaborn._core.rules",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\rules.py"
+    },
+    "seaborn._core.scales": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.axis",
+            "matplotlib.dates",
+            "matplotlib.scale",
+            "matplotlib.ticker",
+            "numpy",
+            "numpy.typing",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._core.rules",
+            "seaborn._core.typing"
+        ],
+        "name": "seaborn._core.scales",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\scales.py"
+    },
+    "seaborn._core.subplots": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.axes",
+            "matplotlib.figure",
+            "matplotlib.pyplot",
+            "numpy",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.plot"
+        ],
+        "name": "seaborn._core.subplots",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\subplots.py"
+    },
+    "seaborn._core.typing": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.data",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.scales",
+            "seaborn._stats.aggregation",
+            "seaborn.categorical",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.colors",
+            "numpy",
+            "pandas"
+        ],
+        "name": "seaborn._core.typing",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_core\\typing.py"
+    },
+    "seaborn._docstrings": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.axisgrid",
+            "seaborn.distributions",
+            "seaborn.relational"
+        ],
+        "imports": [
+            "seaborn.external",
+            "seaborn.external.docscrape"
+        ],
+        "name": "seaborn._docstrings",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_docstrings.py"
+    },
+    "seaborn._marks": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn.objects"
+        ],
+        "name": "seaborn._marks",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\__init__.py"
+    },
+    "seaborn._marks.area": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "numpy",
+            "seaborn",
+            "seaborn._marks",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._marks.area",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\area.py"
+    },
+    "seaborn._marks.bar": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "numpy",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.scales",
+            "seaborn._marks",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._marks.bar",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\bar.py"
+    },
+    "seaborn._marks.base": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.exceptions",
+            "seaborn._core.properties",
+            "seaborn._core.scales"
+        ],
+        "name": "seaborn._marks.base",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\base.py"
+    },
+    "seaborn._marks.dot": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.artist",
+            "numpy",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.scales",
+            "seaborn._marks",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._marks.dot",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\dot.py"
+    },
+    "seaborn._marks.line": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "numpy",
+            "seaborn",
+            "seaborn._marks",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._marks.line",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\line.py"
+    },
+    "seaborn._marks.text": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.transforms",
+            "numpy",
+            "seaborn",
+            "seaborn._marks",
+            "seaborn._marks.base"
+        ],
+        "name": "seaborn._marks.text",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_marks\\text.py"
+    },
+    "seaborn._statistics": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._stats.aggregation",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.relational"
+        ],
+        "imports": [
+            "numpy",
+            "pandas",
+            "scipy",
+            "scipy.stats",
+            "seaborn.algorithms",
+            "seaborn.external",
+            "seaborn.external.kde",
+            "seaborn.utils"
+        ],
+        "name": "seaborn._statistics",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_statistics.py"
+    },
+    "seaborn._stats": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.objects"
+        ],
+        "name": "seaborn._stats",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\__init__.py"
+    },
+    "seaborn._stats.aggregation": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales",
+            "seaborn._core.typing",
+            "seaborn._statistics",
+            "seaborn._stats",
+            "seaborn._stats.base"
+        ],
+        "name": "seaborn._stats.aggregation",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\aggregation.py"
+    },
+    "seaborn._stats.base": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._core.plot",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales"
+        ],
+        "name": "seaborn._stats.base",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\base.py"
+    },
+    "seaborn._stats.counting": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.distributions",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "numpy",
+            "numpy.typing",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales",
+            "seaborn._stats",
+            "seaborn._stats.base"
+        ],
+        "name": "seaborn._stats.counting",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\counting.py"
+    },
+    "seaborn._stats.density": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.categorical",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "numpy",
+            "pandas",
+            "scipy",
+            "scipy.stats",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales",
+            "seaborn._stats",
+            "seaborn._stats.base",
+            "seaborn.external",
+            "seaborn.external.kde"
+        ],
+        "name": "seaborn._stats.density",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\density.py"
+    },
+    "seaborn._stats.order": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.groupby",
+            "seaborn._core.scales",
+            "seaborn._stats",
+            "seaborn._stats.base",
+            "seaborn.utils",
+            "typing_extensions"
+        ],
+        "name": "seaborn._stats.order",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\order.py"
+    },
+    "seaborn._stats.regression": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.objects"
+        ],
+        "imports": [
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._stats",
+            "seaborn._stats.base"
+        ],
+        "name": "seaborn._stats.regression",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_stats\\regression.py"
+    },
+    "seaborn._testing": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.colors",
+            "numpy",
+            "numpy.testing"
+        ],
+        "name": "seaborn._testing",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\_testing.py"
+    },
+    "seaborn.algorithms": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._statistics",
+            "seaborn.regression"
+        ],
+        "imports": [
+            "numpy"
+        ],
+        "name": "seaborn.algorithms",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\algorithms.py"
+    },
+    "seaborn.axisgrid": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn._base",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core",
+            "seaborn._core.data",
+            "seaborn._docstrings",
+            "seaborn.distributions",
+            "seaborn.palettes",
+            "seaborn.regression",
+            "seaborn.relational",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.axisgrid",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\axisgrid.py"
+    },
+    "seaborn.categorical": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.markers",
+            "matplotlib.patches",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core",
+            "seaborn._core.typing",
+            "seaborn._statistics",
+            "seaborn._stats",
+            "seaborn._stats.density",
+            "seaborn.axisgrid",
+            "seaborn.palettes",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.categorical",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\categorical.py"
+    },
+    "seaborn.cm": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.matrix"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.colors",
+            "seaborn",
+            "seaborn._compat"
+        ],
+        "name": "seaborn.cm",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\cm.py"
+    },
+    "seaborn.colors": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.palettes"
+        ],
+        "imports": [
+            "seaborn.colors.crayons",
+            "seaborn.colors.xkcd_rgb"
+        ],
+        "name": "seaborn.colors",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\colors\\__init__.py"
+    },
+    "seaborn.colors.crayons": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.colors",
+            "seaborn.palettes"
+        ],
+        "name": "seaborn.colors.crayons",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\colors\\crayons.py"
+    },
+    "seaborn.colors.xkcd_rgb": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.colors",
+            "seaborn.palettes"
+        ],
+        "name": "seaborn.colors.xkcd_rgb",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\colors\\xkcd_rgb.py"
+    },
+    "seaborn.distributions": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.axisgrid"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.collections",
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "matplotlib.transforms",
+            "numpy",
+            "pandas",
+            "seaborn._base",
+            "seaborn._docstrings",
+            "seaborn._statistics",
+            "seaborn._stats",
+            "seaborn._stats.counting",
+            "seaborn.axisgrid",
+            "seaborn.external",
+            "seaborn.external.husl",
+            "seaborn.external.kde",
+            "seaborn.palettes",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.distributions",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\distributions.py"
+    },
+    "seaborn.external": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._docstrings",
+            "seaborn._statistics",
+            "seaborn._stats.density",
+            "seaborn.distributions",
+            "seaborn.palettes",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.external",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\__init__.py"
+    },
+    "seaborn.external.appdirs": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.utils"
+        ],
+        "imports": [
+            "win32api"
+        ],
+        "name": "seaborn.external.appdirs",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\appdirs.py"
+    },
+    "seaborn.external.docscrape": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._docstrings"
+        ],
+        "name": "seaborn.external.docscrape",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\docscrape.py"
+    },
+    "seaborn.external.husl": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.distributions",
+            "seaborn.palettes"
+        ],
+        "name": "seaborn.external.husl",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\husl.py"
+    },
+    "seaborn.external.kde": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn._statistics",
+            "seaborn._stats.density",
+            "seaborn.distributions"
+        ],
+        "imports": [
+            "numpy",
+            "numpy.linalg"
+        ],
+        "name": "seaborn.external.kde",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\kde.py"
+    },
+    "seaborn.external.version": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.external.version",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\external\\version.py"
+    },
+    "seaborn.matrix": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.collections",
+            "matplotlib.gridspec",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "scipy",
+            "scipy.cluster",
+            "scipy.cluster.hierarchy",
+            "seaborn",
+            "seaborn._compat",
+            "seaborn.axisgrid",
+            "seaborn.cm",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.matrix",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\matrix.py"
+    },
+    "seaborn.miscplot": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.pyplot",
+            "matplotlib.ticker",
+            "numpy"
+        ],
+        "name": "seaborn.miscplot",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\miscplot.py"
+    },
+    "seaborn.objects": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "seaborn",
+            "seaborn._core",
+            "seaborn._core.moves",
+            "seaborn._core.plot",
+            "seaborn._core.scales",
+            "seaborn._marks",
+            "seaborn._marks.area",
+            "seaborn._marks.bar",
+            "seaborn._marks.base",
+            "seaborn._marks.dot",
+            "seaborn._marks.line",
+            "seaborn._marks.text",
+            "seaborn._stats",
+            "seaborn._stats.aggregation",
+            "seaborn._stats.base",
+            "seaborn._stats.counting",
+            "seaborn._stats.density",
+            "seaborn._stats.order",
+            "seaborn._stats.regression"
+        ],
+        "name": "seaborn.objects",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\objects.py"
+    },
+    "seaborn.palettes": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.rcmod",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "PIL",
+            "PIL.Image",
+            "matplotlib",
+            "numpy",
+            "seaborn._compat",
+            "seaborn.colors",
+            "seaborn.colors.crayons",
+            "seaborn.colors.xkcd_rgb",
+            "seaborn.external",
+            "seaborn.external.husl",
+            "seaborn.rcmod",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.palettes",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\palettes.py"
+    },
+    "seaborn.rcmod": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn._core.plot",
+            "seaborn.palettes",
+            "seaborn.widgets"
+        ],
+        "imports": [
+            "cycler",
+            "matplotlib",
+            "seaborn",
+            "seaborn.palettes"
+        ],
+        "name": "seaborn.rcmod",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\rcmod.py"
+    },
+    "seaborn.regression": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.axisgrid"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn.algorithms",
+            "seaborn.axisgrid",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.regression",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\regression.py"
+    },
+    "seaborn.relational": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn.axisgrid"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._docstrings",
+            "seaborn._statistics",
+            "seaborn.axisgrid",
+            "seaborn.utils"
+        ],
+        "name": "seaborn.relational",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\relational.py"
+    },
+    "seaborn.utils": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn",
+            "seaborn._base",
+            "seaborn._compat",
+            "seaborn._core.data",
+            "seaborn._core.plot",
+            "seaborn._core.properties",
+            "seaborn._statistics",
+            "seaborn._stats.order",
+            "seaborn.axisgrid",
+            "seaborn.categorical",
+            "seaborn.distributions",
+            "seaborn.matrix",
+            "seaborn.palettes",
+            "seaborn.regression",
+            "seaborn.relational"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.cbook",
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "numpy",
+            "pandas",
+            "seaborn",
+            "seaborn._compat",
+            "seaborn._core",
+            "seaborn._core.typing",
+            "seaborn.axisgrid",
+            "seaborn.external",
+            "seaborn.external.appdirs",
+            "seaborn.external.version"
+        ],
+        "name": "seaborn.utils",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\utils.py"
+    },
+    "seaborn.widgets": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "seaborn"
+        ],
+        "imports": [
+            "matplotlib",
+            "matplotlib.colors",
+            "matplotlib.pyplot",
+            "numpy",
+            "seaborn.miscplot",
+            "seaborn.palettes",
+            "seaborn.rcmod"
+        ],
+        "name": "seaborn.widgets",
+        "path": "D:\\Sem6\\STT\\Lab_9\\seaborn\\seaborn\\widgets.py"
+    },
+    "typing_extensions": {
+        "bacon": 2,
+        "imported_by": [
+            "matplotlib.pyplot",
+            "seaborn._stats.order"
+        ],
+        "name": "typing_extensions",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\typing_extensions.py"
+    },
+    "win32api": {
+        "bacon": 2,
+        "imported_by": [
+            "seaborn.external.appdirs"
+        ],
+        "name": "win32api",
+        "path": "C:\\Users\\Pratham Sharda\\AppData\\Roaming\\Python\\Python313\\site-packages\\win32\\win32api.pyd"
+    }
+}
