@@ -1,0 +1,14 @@
+D:\Sem6\STT\LAB_10\ConsoleApplication1\bin\Debug\net9.0\ConsoleApplication1.exe
+D:\Sem6\STT\LAB_10\ConsoleApplication1\bin\Debug\net9.0\ConsoleApplication1.deps.json
+D:\Sem6\STT\LAB_10\ConsoleApplication1\bin\Debug\net9.0\ConsoleApplication1.runtimeconfig.json
+D:\Sem6\STT\LAB_10\ConsoleApplication1\bin\Debug\net9.0\ConsoleApplication1.dll
+D:\Sem6\STT\LAB_10\ConsoleApplication1\bin\Debug\net9.0\ConsoleApplication1.pdb
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.AssemblyInfoInputs.cache
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.AssemblyInfo.cs
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.dll
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\refint\ConsoleApplication1.dll
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.pdb
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ConsoleApplication1.genruntimeconfig.cache
+D:\Sem6\STT\LAB_10\ConsoleApplication1\obj\Debug\net9.0\ref\ConsoleApplication1.dll
